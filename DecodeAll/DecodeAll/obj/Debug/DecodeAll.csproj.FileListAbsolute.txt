@@ -1,0 +1,14 @@
+C:\Users\HSB Cad Intern\source\repos\DecodeAll\DecodeAll\bin\Debug\DecodeAll.exe.config
+C:\Users\HSB Cad Intern\source\repos\DecodeAll\DecodeAll\bin\Debug\DecodeAll.exe
+C:\Users\HSB Cad Intern\source\repos\DecodeAll\DecodeAll\bin\Debug\DecodeAll.pdb
+C:\Users\HSB Cad Intern\source\repos\DecodeAll\DecodeAll\obj\Debug\DecodeAll.csprojAssemblyReference.cache
+C:\Users\HSB Cad Intern\source\repos\DecodeAll\DecodeAll\obj\Debug\MainWindow.g.cs
+C:\Users\HSB Cad Intern\source\repos\DecodeAll\DecodeAll\obj\Debug\App.g.cs
+C:\Users\HSB Cad Intern\source\repos\DecodeAll\DecodeAll\obj\Debug\DecodeAll_MarkupCompile.cache
+C:\Users\HSB Cad Intern\source\repos\DecodeAll\DecodeAll\obj\Debug\DecodeAll_MarkupCompile.lref
+C:\Users\HSB Cad Intern\source\repos\DecodeAll\DecodeAll\obj\Debug\MainWindow.baml
+C:\Users\HSB Cad Intern\source\repos\DecodeAll\DecodeAll\obj\Debug\DecodeAll.g.resources
+C:\Users\HSB Cad Intern\source\repos\DecodeAll\DecodeAll\obj\Debug\DecodeAll.Properties.Resources.resources
+C:\Users\HSB Cad Intern\source\repos\DecodeAll\DecodeAll\obj\Debug\DecodeAll.csproj.GenerateResource.cache
+C:\Users\HSB Cad Intern\source\repos\DecodeAll\DecodeAll\obj\Debug\DecodeAll.exe
+C:\Users\HSB Cad Intern\source\repos\DecodeAll\DecodeAll\obj\Debug\DecodeAll.pdb

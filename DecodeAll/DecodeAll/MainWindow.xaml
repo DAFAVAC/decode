@@ -1,0 +1,19 @@
+﻿<Window x:Class="decode.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:decode"
+        mc:Ignorable="d"
+        Title="Decode Date" Height="220" Width="573">
+    <Grid Margin="71,0,65,0" Height="161">
+        <Button Content="Decode Sync" HorizontalAlignment="Left" VerticalAlignment="Top" Height="19" Width="95" Click="Button_Decode" Margin="83,106,0,0"/>
+        <TextBox x:Name="dateEncode" HorizontalAlignment="Left" Margin="83,59,0,0" Text="date" TextWrapping="Wrap" VerticalAlignment="Top" Width="310" TextChanged="TextBox_TextChanged"/>
+        <Label x:Name="code" Content="Code :" HorizontalAlignment="Left" Margin="30,55,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.506,0.495"/>
+        <Label Content="Conent :" HorizontalAlignment="Left" Margin="30,125,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="Date_Decode" HorizontalAlignment="Left" Margin="92,133,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="296"/>
+        <TextBox x:Name="key_Simetric" HorizontalAlignment="Left" Margin="83,16,0,0" Text="A!9HHhi%XjjYY4YP2@Nob009X" TextWrapping="Wrap" VerticalAlignment="Top" Width="310" TextChanged="key_Simetric_TextChanged"/>
+        <Label Content="Key :" HorizontalAlignment="Left" Margin="30,12,0,0" VerticalAlignment="Top"/>
+        <Button Content="Decode Async" HorizontalAlignment="Left" Margin="260,106,0,0" VerticalAlignment="Top" Width="101" Click="Button_Decode_Async"/>
+    </Grid>
+</Window>
